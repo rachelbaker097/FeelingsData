@@ -1,4 +1,4 @@
-## Hey babe, happy birthday!
+## Working Alexa Birthday Project
 
 How to do a hyperlink: [editor on GitHub](https://github.com/rachelbaker097/FeelingsData/edit/master/index.md)
 
